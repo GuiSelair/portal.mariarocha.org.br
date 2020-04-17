@@ -1,0 +1,5 @@
+conexao/
+dist/
+bower_components/
+
+controllers/enviaEmail.php
