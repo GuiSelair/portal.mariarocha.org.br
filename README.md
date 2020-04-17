@@ -4,7 +4,7 @@
 
 > Portal acadêmico com funcionalidades de lançamentos de notas e calendário, desenvolvido em 2019.
 
-![](.github/welcome.jpg)
+![](.github/welcome.png)
 
 
 ## Introdução
